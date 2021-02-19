@@ -536,13 +536,13 @@ footer .copyright {
 
 @media (max-width: 670px) {
   header .header-top .title {
-    font-size: 20px;
+    font-size: 15px;
   }
   header .header-top nav {
     display: inline-block;
   }
   header .header-top nav ul li {
-    font-size: 10px;
+    font-size: 8px;
     margin-right: 10px;
   }
   header .main-image h2 {
